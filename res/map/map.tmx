@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="20" tileheight="20" nextobjectid="83">
+ <tileset firstgid="1" name="black" tilewidth="20" tileheight="20">
+  <image source="black.png" width="173" height="144"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJyll8FuwzAMQ+2gGeCgzWnr/3/qUqACiFdKcbYD0cSuRUmWaGdprS0n6BfBNWprm+ALDAHtqG/uN7gUV3i3xBbHyLvJ75D3W4IO3pn8Vbx9kpfxdnkexboX1gNf4B2TvMpP3tfae4HHgR38bq8CGa/GEOu/C/wceP6TN8th2OjGZkfcf+HNcrgJp+5bjGvcZ7zKH3FlORyA1vNtgtfpjfLqODlG++zLyLHy8j/UIu0RraOz+Zkcq79XeFXnYt7162J42YMZWLdufH3n09Vi1kvUU/oddqs+Wt/2nW4or9Y/88weCa2Z0aJMO9RH1lY8s0fCz0qLVBOqPmSO3Zke/rCPuDfskao+djOmfezqeVYzq3ijpqmbvBuoblRnjrNDvQ1u1jj1KBA2qzOnyvUdvM5XauBotQ5TU7g21mcaH3ad7l7RFJ4JTuNpm/672F28Z/odmhA5nZ1n/ym4d1til3vF3MQ860/7T8G9c/G7+zJ1gDW84/kJMEesUxc7Y413PTPZ83pP6O3zfHV1OvMdQ78qPbgCapH7BsnqYaavMrj7kOIXCrAbgQ==
+  </data>
+ </layer>
+ <objectgroup name="player">
+  <object id="7" x="20" y="91" width="20" height="20"/>
+ </objectgroup>
+ <layer name="help" width="30" height="30" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOKFFZHbFg1N5Re0ftHbUXWd1AYGLBcAnnUXtH7R21lzrqRsurUXtH7R21dyjYCwC5Ng9p
+  </data>
+ </layer>
+ <objectgroup name="block">
+  <object id="29" x="0" y="0" width="600" height="60"/>
+  <object id="39" x="120" y="60" width="480" height="20"/>
+  <object id="40" x="120" y="80" width="160" height="20"/>
+  <object id="41" x="160" y="100" width="120" height="20"/>
+  <object id="42" x="240" y="120" width="40" height="20"/>
+  <object id="43" x="160" y="120" width="20" height="20"/>
+  <object id="44" x="460" y="80" width="140" height="20"/>
+  <object id="45" x="500" y="100" width="100" height="120"/>
+  <object id="46" x="480" y="220" width="120" height="40"/>
+  <object id="47" x="520" y="260" width="80" height="60"/>
+  <object id="48" x="500" y="320" width="100" height="20"/>
+  <object id="49" x="500" y="340" width="20" height="40"/>
+  <object id="50" x="580" y="340" width="20" height="40"/>
+  <object id="51" x="280" y="140" width="160" height="40"/>
+  <object id="52" x="280" y="180" width="140" height="20"/>
+  <object id="53" x="160" y="200" width="260" height="20"/>
+  <object id="54" x="320" y="220" width="100" height="20"/>
+  <object id="55" x="380" y="240" width="40" height="20"/>
+  <object id="56" x="160" y="220" width="100" height="40"/>
+  <object id="57" x="160" y="260" width="60" height="20"/>
+  <object id="58" x="0" y="120" width="60" height="60"/>
+  <object id="59" x="0" y="180" width="100" height="100"/>
+  <object id="60" x="0" y="280" width="20" height="60"/>
+  <object id="61" x="0" y="340" width="100" height="100"/>
+  <object id="62" x="160" y="340" width="100" height="20"/>
+  <object id="63" x="320" y="320" width="100" height="40"/>
+  <object id="64" x="340" y="360" width="80" height="60"/>
+  <object id="65" x="300" y="420" width="120" height="20"/>
+  <object id="66" x="300" y="440" width="140" height="20"/>
+  <object id="67" x="320" y="460" width="120" height="40"/>
+  <object id="68" x="160" y="420" width="80" height="20"/>
+  <object id="69" x="0" y="440" width="240" height="20"/>
+  <object id="70" x="60" y="460" width="180" height="20"/>
+  <object id="71" x="60" y="480" width="40" height="20"/>
+  <object id="72" x="0" y="520" width="40" height="40"/>
+  <object id="77" x="0" y="560" width="80" height="40"/>
+  <object id="78" x="240" y="520" width="20" height="20"/>
+  <object id="79" x="160" y="540" width="100" height="20"/>
+  <object id="80" x="140" y="560" width="460" height="40"/>
+  <object id="81" x="400" y="500" width="200" height="60"/>
+  <object id="82" x="500" y="440" width="100" height="60"/>
+ </objectgroup>
+</map>
